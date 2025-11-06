@@ -1,7 +1,7 @@
-import LastTask from "./weather";
+import Profile from "./profile";
 
 function App() {
-  return <weather />;
+  return <Profile />;
 }
 
 export default App;
